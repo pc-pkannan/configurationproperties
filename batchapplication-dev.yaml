@@ -1,0 +1,12 @@
+test:
+  key1:
+    value1: "abc-dev"
+    value2: "def-dev"
+  key2:
+    value1: 14
+    value2: 8.2
+
+db:
+  uri: somedevuri
+  username: somedevusername
+  password: somedevpassword # This will be in some vault.
