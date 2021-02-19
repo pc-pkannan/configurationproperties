@@ -5,3 +5,8 @@ test:
   key2:
     value1: 14
     value2: 8.2
+
+db:
+  uri: someproduri
+  username: someprodusername
+  password: someprodpassword # This will be in some vault.
