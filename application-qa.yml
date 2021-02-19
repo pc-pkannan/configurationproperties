@@ -1,0 +1,7 @@
+test:
+  key1:
+    value1: "abc-qa"
+    value2: "def-qa"
+  key2:
+    value1: 2
+    value2: 2.4
