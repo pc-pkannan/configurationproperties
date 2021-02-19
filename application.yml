@@ -1,0 +1,7 @@
+test:
+  key1:
+    value1: "abc"
+    value2: "def"
+  key2:
+    value1: 1
+    value2: 1.2
