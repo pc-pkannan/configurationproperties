@@ -1,0 +1,7 @@
+test:
+  key1:
+    value1: "abc-prod"
+    value2: "def-prod"
+  key2:
+    value1: 14
+    value2: 8.2
