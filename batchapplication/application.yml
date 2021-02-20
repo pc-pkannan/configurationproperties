@@ -1,0 +1,8 @@
+test:
+  key1:
+    value1: "abc-common"
+
+db:
+  uri: somelocaluri
+  username: somelocalusername
+  password: somelocalpassword # This will be in some vault.
