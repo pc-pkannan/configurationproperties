@@ -1,0 +1,12 @@
+test:
+  key1:
+    value1: "acecommon1"
+    value2: "acecommon2"
+  key2:
+    value1: 14
+    value2: 8.2
+
+db:
+  uri: acedevdburi
+  username: acedevdb
+  password: acedevpass # This will be in some vault.
